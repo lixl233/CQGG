@@ -1,0 +1,5 @@
+.nav-list {
+  height: 56px;
+  background: linear-gradient(to right,hsla(var(--logo-hsl)/.2),hsla(var(--logo-hsl)/.05) 50%,transparent 95%);
+}
+
